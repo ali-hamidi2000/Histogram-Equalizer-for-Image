@@ -7,3 +7,5 @@
 </h1>
 
 <b><h4 align="center">.:: Histogram Equalization ::.</h4></b>
+
+https://medium.com/@official.parvizi/histogram-equalization-for-an-image-and-webcam-33f443b8a533
