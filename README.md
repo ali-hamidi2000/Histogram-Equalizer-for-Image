@@ -6,16 +6,16 @@
   <br>
 </h1>
 
-<b><h4 align="center">.:: Histogram Equalization for Image ::.</h4></b>
+<b><h4 align="center">.:: Histogram Equalizer for Image ::.</h4></b>
 
 https://medium.com/@official.parvizi/histogram-equalization-for-an-image-and-webcam-33f443b8a533
 
 <p align="center">
-<a href="https://github.com/Awrsha/RoboticSoccerPlayGround"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
-<a href="https://github.com/Awrsha/RoboticSoccerPlayGround"><img src="https://img.shields.io/badge/Platform-linux--64 -blue" alt="HSL" width="130"></a>
-<a href="https://github.com/Awrsha/RoboticSoccerPlayGround"><img src="https://img.shields.io/badge/Platform-windows-cyan" alt="HSL" width="130"></a>
-<a href="https://github.com/Awrsha/RoboticSoccerPlayGround/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-GPL3-red" alt="HSL" width="110"></a>
-<a href="https://github.com/Awrsha/RoboticSoccerPlayGround/network/members"><img src="https://img.shields.io/badge/Developers-1-lightgrey" alt="HSL" width="100"></a>
+<a href="https://github.com/Awrsha/Histogram-Equalizer-for-Image"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
+<a href="https://github.com/Awrsha/Histogram-Equalizer-for-Image"><img src="https://img.shields.io/badge/Platform-linux--64 -blue" alt="HSL" width="130"></a>
+<a href="https://github.com/Awrsha/Histogram-Equalizer-for-Image"><img src="https://img.shields.io/badge/Platform-windows-cyan" alt="HSL" width="130"></a>
+<a href="https://github.com/Awrsha/Histogram-Equalizer-for-Image/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-GPL3-red" alt="HSL" width="110"></a>
+<a href="https://github.com/Awrsha/Histogram-Equalizer-for-Image/network/members"><img src="https://img.shields.io/badge/Developers-1-lightgrey" alt="HSL" width="100"></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
